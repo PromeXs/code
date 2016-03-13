@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include <iostream>
+
+using namespace std;
 
 void ZhouAnBuEr()
 {
@@ -8,5 +11,6 @@ void ZhouAnBuEr()
 int main() {
 	ZhouAnBuEr();
 	printf("pogesb");
+	cout << "许源钷我儿子" << endl;
 	return 0;
 }
