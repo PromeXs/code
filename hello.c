@@ -8,6 +8,11 @@ void ZhouAnBuEr()
 	print("wo bu ER");
 
 }
+
+void yousb() {
+	cout << "you are a sb!!" << endl;
+}
+
 int main() {
 	ZhouAnBuEr();
 	printf("pogesb");
@@ -15,5 +20,6 @@ int main() {
 	while(true) {
 		cout << "poge my son!!" << endl;
 	}
+	yousb();
 	return 0;
 }
