@@ -1,6 +1,5 @@
 #include<stdio.h>
-int main()
-{
-	showtime();
+int main(){
+	printf("I'm you father");
 	return 0;
 }
