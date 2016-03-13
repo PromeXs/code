@@ -7,5 +7,6 @@ void ZhouAnBuEr()
 }
 int main() {
 	ZhouAnBuEr();
+	printf("pogesb");
 	return 0;
 }
